@@ -630,6 +630,18 @@ input, select, textarea {
 		}
 
 /* Image */
+#project-image  {
+	float: right;    
+	 margin: 0 0 0 15px;
+	}
+
+.project-row li{
+	display: inline;
+}
+
+.project-row p + ul {
+    margin-top: -30px;
+}
 
 	.image {
 		border-radius: 4px;
