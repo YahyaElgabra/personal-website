@@ -1621,3 +1621,70 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+/* Skills */
+	.azure {
+		color: #4B8BBE;
+	}
+	.lapis {
+		color: #306998;
+	}
+	.shandy {
+		color: #FFE873;
+	}
+	.sunglow {
+		color: #FFD43B;
+	}
+
+	.dark-orange {
+		color: #e34c26;
+	}
+	.light-orange {
+		color: #f06529;
+	}
+	.dark-white {
+		color: #ebebeb;
+	}
+	.light-white {
+		color: white;
+	}
+
+	.dark-blue {
+		color: #264de4;
+	}
+	.light-blue {
+		color: #2965f1;
+	}
+
+	.js-yellow {
+		color: #f0db4f;
+	}
+	.js-black {
+		color: #323330;
+	}
+
+	.java-orange {
+		color: #f89820;
+	}
+	.java-blue {
+		color: #5382a1;
+	}
+
+	.git-red {
+		color: #f34f29;
+	}
+	.git-brown {
+		color: #3d2d00;
+	}
+
+	.purple {
+		color: rgb(165, 26, 165);
+	}
+
+	.r {
+		color: #2965f1;
+	}
+
+	.pskill {
+		margin-bottom: 0;
+	}
